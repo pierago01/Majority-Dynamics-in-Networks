@@ -35,7 +35,7 @@ Il progetto confronta le performance dei seguenti algoritmi di selezione del see
 
 ### Prerequisiti
 Il progetto è scritto in Python 3.
-Le dipendenze necessarie sono:
+Per installare le dipendenze necessarie:
 
 ```bash
 pip install networkx pandas matplotlib seaborn scipy
